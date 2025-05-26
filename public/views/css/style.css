@@ -42,14 +42,14 @@ a {
 
 .chat-container {
 	max-width: 1100px;
-	background: #fff;
+	background: #ece0e0;
 	margin: 30px auto;
 	overflow: hidden;
 }
 
 .chat-header {
 	background: var(--dark-color-a);
-	color: #fff;
+	color: #f8e1e1;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 	padding: 15px;
